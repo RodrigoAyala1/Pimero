@@ -1,0 +1,17 @@
+body{background-color: gray;}
+#Encabezado
+{background-color: black; 
+width: 100%;
+ text-align: center:}
+
+#imag{width: 50%;
+ background-image: url(wason-22.jpg);
+ float: left;}
+
+#Foto{width:50%;
+border-radius: 50%;
+margin-left:15%;}
+
+#Info{float: right;
+background-color: gray;
+width: 50%}
